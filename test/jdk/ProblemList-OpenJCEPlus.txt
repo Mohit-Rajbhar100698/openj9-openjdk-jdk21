@@ -42,5 +42,4 @@ sun/security/ec/ed/TestEdDSA.java https://github.com/ibmruntimes/openj9-openjdk-
 sun/security/jca/PreferredProviderNegativeTest.java https://github.com/ibmruntimes/openj9-openjdk-jdk/issues/994 generic-all
 sun/security/krb5/auto/principalProperty/PrincipalSystemPropTest.java https://github.com/eclipse-openj9/openj9/issues/22242 generic-all
 sun/security/mscapi/EncodingMutability.java https://github.com/eclipse-openj9/openj9/issues/22242 windows-all
-sun/security/provider/all/Deterministic.java https://github.com/eclipse-openj9/openj9/issues/22242 generic-all
 sun/security/util/Debug/DebugOptions.java https://github.com/eclipse-openj9/openj9/issues/22242 generic-all

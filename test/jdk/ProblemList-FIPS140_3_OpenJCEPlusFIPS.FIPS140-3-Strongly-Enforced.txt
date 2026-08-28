@@ -781,7 +781,6 @@ sun/security/pkcs12/PKCS12SameKeyId.java https://github.com/eclipse-openj9/openj
 sun/security/pkcs12/SecretKeyAlgorithms.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 sun/security/pkcs12/StorePasswordTest.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 sun/security/pkcs12/StoreSecretKeyTest.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
-sun/security/provider/all/Deterministic.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 sun/security/provider/certpath/CertId/CheckCertId.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 sun/security/provider/certpath/DisabledAlgorithms/CPBuilder.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
 sun/security/provider/certpath/DisabledAlgorithms/CPBuilderWithMD5.java https://github.com/eclipse-openj9/openj9/issues/20343 generic-all
